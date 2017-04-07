@@ -1,0 +1,10 @@
+C:\work\CodeJamVS\CodeJamCS\bin\Debug\CodeJamCS.exe.config
+C:\work\CodeJamVS\CodeJamCS\bin\Debug\CodeJamCS.exe
+C:\work\CodeJamVS\CodeJamCS\bin\Debug\CodeJamCS.pdb
+C:\work\CodeJamVS\CodeJamCS\obj\Debug\CodeJamCS.csprojResolveAssemblyReference.cache
+C:\work\CodeJamVS\CodeJamCS\obj\Debug\CodeJamCS.exe
+C:\work\CodeJamVS\CodeJamCS\obj\Debug\CodeJamCS.pdb
+C:\work\CodeJamVS\CodeJamCS\bin\Debug\_A.cs
+C:\work\CodeJamVS\CodeJamCS\bin\Debug\_B.cs
+C:\work\CodeJamVS\CodeJamCS\bin\Debug\_C.cs
+C:\work\CodeJamVS\CodeJamCS\bin\Debug\_D.cs
